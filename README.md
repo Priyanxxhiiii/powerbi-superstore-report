@@ -16,4 +16,5 @@ An interactive dashboard built using Power BI to analyze the Sample Superstore d
 ## 🔗 Demo
 https://app.powerbi.com/links/c3zhq4u1rN?ctid=be97dfd8-31a5-41c4-8019-51ca7013b51c&pbi_source=linkShare
 
-![Uploading image.png…]()
+![App Screenshot](Screenshot%202025-08-19%20223019.png)
+
